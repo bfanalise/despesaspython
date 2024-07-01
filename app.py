@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import time as tm
 import math
-import plotly.express as px
 
 # Definição de tela
 st.set_page_config(page_title='Cadastro de despesas', layout='centered')
